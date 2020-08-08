@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Node.js Core Modules" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="Node.js Core Modules" />
+      <sourceFilesUrls>
+        <item url="file://D:/Software/nodejs/node_modules" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://D:/Software/nodejs/node_modules" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
